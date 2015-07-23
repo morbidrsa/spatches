@@ -1,0 +1,6 @@
+spatches
+
+
+Varios semantic patches for use with coccinelle that helped me reduce the
+burden of hand writing patches or checking files for the whole (probably mostly
+Linux Kernel) source tree.
